@@ -2,11 +2,12 @@
 
 This is the repo for AlphaReadabilityChinese 2.0, a tool that automatically assess the readability of a Chinese text.
 
-AlphaReadabilityChinese 2.0 is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, semantic, and textual (cohesive) levels.
+**AlphaReadabilityChinese 2.0** is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, semantic, and textual (cohesive) levels.
 
-Download
+## Download
 
 Download AlphaReadabilityChinese 2.0 for MS Windows and MacOS at Releases of this repo (the right side of this page). 
+
 
 
 ## AlphaReadabilityChinese 2.0
