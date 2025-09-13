@@ -89,6 +89,6 @@ or
 
 `sudo xattr -r -d com.apple.quarantine /Applications/AlphaReadabilityChinese.app`
 
-**Notes**
+## Notes
 
 Note that it may take a while (approximately 30 seconds on my MacBook) the first time we open AlphaReadabilityChinese when it loads many models behind. The good news is that it works highly efficiently to process our data after all the models are loaded.
