@@ -51,7 +51,9 @@ It is free to use the ARC 2.0. It is very much appreciated if you cite our work 
 
 Lei, Lei, Wei, Yaoyu, & Liu, Kanglong. 2024. AlphaReadabilityChinese: A tool for the measurement of readability in Chinese texts and its applications. Foreign Languages and Their Teaching. 46(1):83-93. (in Chinese)
 
-or 雷蕾, 韦瑶瑜, 刘康龙. 2024. AlphaReadabilityChinese：汉语文本可读性工具开发与应用. 外语与外语教学. 46(1):83-93.
+or 
+
+雷蕾, 韦瑶瑜, 刘康龙. 2024. AlphaReadabilityChinese：汉语文本可读性工具开发与应用. 外语与外语教学. 46(1):83-93.
 
 You can also find detailed information of the ARC Chinese in the foregoing article.
 
