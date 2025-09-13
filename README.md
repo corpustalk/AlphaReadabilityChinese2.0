@@ -38,29 +38,21 @@ Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The
 
 ## Metrics or Indices in the ARC 2.0
 
-| Indices | Dimensions | Calculations | 
 
-| :--- | :--- | :--- | :--- |
-
-| lexical_richness | Lexical | Entropy of all tokens | 
-
-| syntactic_richness | Syntactic | Entropy of all dependency relations | 
-
-| semantic_accuracy_n | Semantic | Average number of sense/meaning components of all nouns | 
-
-| semantic_accuracy_v | Semantic | Average number of sense/meaning components of all verbs | 
-
-| semantic_accuracy_n_v | Semantic | Average number of sense/meaning components of all nouns and verbs | 
-
-| semantic_accuracy_c | Semantic | Average number of sense/meaning components of all content words (i.e., nouns, verbs, adjectives, and adverbs) | 
-
-| semantic_richness_n | Semantic | Sum of probabilities of all nouns | 
-
-| semantic_clarity_n | Semantic | Skewness of probabilities of all nouns | 
-
-| semantic_noise_n | Semantic | Kurtosis/Tailness of probabilities of all nouns | 
-
-| cohesion | Textual | Mean score of cosine similarities of all adjacent sentences | 
+```markdown
+| Indices               | Dimensions | Calculations                                                          |
+| :-------------------- | :--------- | :-------------------------------------------------------------------- |
+| lexical_richness      | Lexical    | Entropy of all tokens                                                 |
+| syntactic_richness    | Syntactic  | Entropy of all dependency relations                                   |
+| semantic_accuracy_n   | Semantic   | Average number of sense/meaning components of all nouns               |
+| semantic_accuracy_v   | Semantic   | Average number of sense/meaning components of all verbs               |
+| semantic_accuracy_n_v | Semantic   | Average number of sense/meaning components of all nouns and verbs     |
+| semantic_accuracy_c   | Semantic   | Average number of sense/meaning components of all content words (i.e., nouns, verbs, adjectives, and adverbs) |
+| semantic_richness_n   | Semantic   | Sum of probabilities of all nouns                                     |
+| semantic_clarity_n    | Semantic   | Skewness of probabilities of all nouns                                |
+| semantic_noise_n      | Semantic   | Kurtosis/Tailness of probabilities of all nouns                       |
+| cohesion              | Textual    | Mean score of cosine similarities of all adjacent sentences           |
+```
 
 
 
