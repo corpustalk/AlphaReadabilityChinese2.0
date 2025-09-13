@@ -18,7 +18,9 @@ Happy to release our new app, AlphaReadabilityChinese 2.0 (or the ARC 2.0).
 
 The ARC 2.0 is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, and semantic levels.
 
-The ARC 2.0 provides versions working on both MS Windows and Mac OS. It is free to use the ARC Chinese. It is very much appreciated if you cite our work as follows when you use the ARC Chinese.
+The ARC 2.0 provides versions working on both MS Windows and Mac OS. 
+
+It is free to use the ARC 2.0. It is very much appreciated if you cite our work as follows when you use the ARC Chinese.
 
 Lei, Lei, Wei, Yaoyu, & Liu, Kanglong. 2024. AlphaReadabilityChinese: A tool for the measurement of readability in Chinese texts and its applications. Foreign Languages and Their Teaching. 46(1):83-93. (in Chinese)
 
