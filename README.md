@@ -34,7 +34,7 @@ Hope the ARC 2.0 helps. Comments and suggestions are welcome! (leileicnATqqDOTco
 
 ## What's new
 
-Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The new metric calculates the semantic coherence of a Chinese text in terms of the cosine similarities of all neighbouring sentences. 
+Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The new metric calculates the semantic coherence of a Chinese text in terms of the mean score of the cosine similarities of all neighbouring sentences. 
 
 ## Guidelines for Users
 
