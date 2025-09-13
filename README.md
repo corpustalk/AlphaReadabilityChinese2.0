@@ -71,7 +71,7 @@ Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The
 
 - Open the resulting file with your spreadsheet app such as MS Office Excel or Numbers on Mac OS and check out the readability measures of all texts in the Input Folder.
 
-**Known issues for Mac users**
+## Known issues for Mac users
 
 On MacOS, if you encounter the "App is damaged and can't be opened" error: 
 
