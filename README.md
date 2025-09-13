@@ -3,6 +3,8 @@
 This is the repo for AlphaReadabilityChinese 2.0, a tool that automatically assess the readability of a Chinese text.
 
 
+**AlphaReadabilityChinese 2.0** is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, semantic, and textual (cohesive) levels.
+
 ## What's new
 
 Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The new metric calculates the semantic cohesion of a Chinese text in terms of the mean score of the cosine similarities of all neighbouring sentences. 
@@ -28,7 +30,6 @@ Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The
 <img width="1498" height="1256" alt="image" src="https://github.com/user-attachments/assets/e45c0c89-9115-4239-acf2-9d292f29f578" />
 
 
-**AlphaReadabilityChinese 2.0** is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, semantic, and textual (cohesive) levels.
 
 ## Download
 
