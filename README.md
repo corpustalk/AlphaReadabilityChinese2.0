@@ -54,6 +54,7 @@ Compared to the ARC 1.0, the ARC 2.0 adds a new metric at the textual level. The
 | cohesion              | Textual    | Mean score of cosine similarities of all adjacent sentences           |
 ```
 
+<img width="1498" height="1256" alt="image" src="https://github.com/user-attachments/assets/e45c0c89-9115-4239-acf2-9d292f29f578" />
 
 
 ## Guidelines for Users
